@@ -27,4 +27,4 @@ while (xpDoHeroi <= 7000) {
 }
 
 // Exiba a mensagem final
-console.log("O Herói de nome de  " + nomeDoHeroi + " está no nível de " + classeDoHeroi);
+console.log("O Herói com o nome de  " + nomeDoHeroi + " está no nível de " + classeDoHeroi);
